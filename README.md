@@ -1,4 +1,4 @@
-# 💤 LazyVim
+# my neovim config
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+
+this is just basic lazyvim + small changes where $$\|\text{small changes}\| < \varepsilon$$ for all $\varepsilon > 0$.
